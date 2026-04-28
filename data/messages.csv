@@ -1,0 +1,37 @@
+text,label
+"My order arrived damaged and nobody has responded yet.",Complaint
+"The app keeps crashing whenever I try to upload a photo.",Complaint
+"I was charged twice for the same subscription this month.",Complaint
+"Customer support has not replied for three days.",Complaint
+"The delivery was late and the package was missing items.",Complaint
+"This is bad service and I am disappointed.",Complaint
+"Terrible support, my issue is still not fixed.",Complaint
+"The product quality is poor and I want a refund.",Complaint
+"Bad job handling my request.",Complaint
+"I am upset because the service was awful.",Complaint
+"Your latest update made the website much faster.",Feedback
+"I like the clean layout, but the font could be larger.",Feedback
+"The checkout experience feels smooth and easy to use.",Feedback
+"Adding dark mode would make the product even better.",Feedback
+"The notifications are useful, but there are too many of them.",Feedback
+"Very good service, I am happy with the experience.",Feedback
+"Good job, the team was helpful and polite.",Feedback
+"Excellent support and quick response.",Feedback
+"The new design is beautiful and easy to use.",Feedback
+"I really enjoyed using the app today.",Feedback
+"How can I reset my password?",Inquiry
+"How to change my account settings?",Inquiry
+"What are your business hours on weekends?",Inquiry
+"Which way can I contact your team?",Inquiry
+"Which way is best to visit your office?",Inquiry
+"Can you tell me how to track my shipment?",Inquiry
+"Can I call you for support?",Inquiry
+"Is there a free trial available for new users?",Inquiry
+"Where do I download the invoice for last month?",Inquiry
+"Where is your office located?",Inquiry
+"When will I get my refund?",Inquiry
+"How do I update my billing address?",Inquiry
+"Can you help me change my email address?",Inquiry
+"Which number should I use to reach support?",Inquiry
+"What is the process to cancel my subscription?",Inquiry
+"Where can I view my order history?",Inquiry
